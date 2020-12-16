@@ -1,0 +1,55 @@
+
+
+h1
+{
+font-family: Calibri;
+font-size: 18px;
+color: darkgray;
+padding: 2px;
+}
+
+
+h2
+{
+font-family: Calibri;
+font-size: 14px;
+padding-left: 5px;
+color: #708090;
+border: 2px solid #f0ffff;
+border-radius: 25px;
+box-sizing: border-box;
+width: 160px;
+height: 22px;
+background: #f0f8ff;
+}
+
+
+h3
+{
+font-family: Calibri;
+font-size: 12px;
+color: lightgray;
+padding: 2px;
+}
+
+h4
+{
+font-family: Calibri;
+font-size: 12px;
+padding: 2px;
+border: 2px solid lightgray;
+background: #F0F8FF;
+}
+
+ul{
+	font-family: Calibri;
+	font-size: 12px;
+	
+}
+
+li{
+	font-family: Calibri;
+	font-size: 12px;
+	padding: 5px;
+	list-style-type: none;
+}
